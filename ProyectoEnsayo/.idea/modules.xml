@@ -3,9 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ProyectoEnsayo.iml" filepath="$PROJECT_DIR$/ProyectoEnsayo.iml" />
+<<<<<<< HEAD
       <module fileurl="file://C:\Users\Saranghae\Desktop\Repositorios\Ensayo1\ProyectoEnsayo\ProyectoEnsayo.iml" filepath="C:\Users\Saranghae\Desktop\Repositorios\Ensayo1\ProyectoEnsayo\ProyectoEnsayo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\Saranghae\Desktop\Repositorios\Ensayo1\ProyectoEnsayo\app\app.iml" filepath="C:\Users\Saranghae\Desktop\Repositorios\Ensayo1\ProyectoEnsayo\app\app.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://C:\Users\Sánchez\Desktop\repo\Ensayo1\ProyectoEnsayo\ProyectoEnsayo.iml" filepath="C:\Users\Sánchez\Desktop\repo\Ensayo1\ProyectoEnsayo\ProyectoEnsayo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Sánchez\Desktop\repo\Ensayo1\ProyectoEnsayo\app\app.iml" filepath="C:\Users\Sánchez\Desktop\repo\Ensayo1\ProyectoEnsayo\app\app.iml" />
+=======
+      <module fileurl="file://C:\Users\Usuario\Desktop\proyecto1493994\Ensayo1\ProyectoEnsayo\ProyectoEnsayo.iml" filepath="C:\Users\Usuario\Desktop\proyecto1493994\Ensayo1\ProyectoEnsayo\ProyectoEnsayo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Usuario\Desktop\proyecto1493994\Ensayo1\ProyectoEnsayo\app\app.iml" filepath="C:\Users\Usuario\Desktop\proyecto1493994\Ensayo1\ProyectoEnsayo\app\app.iml" />
+>>>>>>> 114248e74a508070f89602cc1a66bee77a4885bf
+>>>>>>> c1d64682004025d92d4c99205a9d913d0e7a1524
     </modules>
   </component>
 </project>
