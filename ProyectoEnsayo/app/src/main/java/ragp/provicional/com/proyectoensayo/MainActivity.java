@@ -11,10 +11,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        public void Toast2(){
-            Toast.makeText(this, "toast 2", Toast.LENGTH_SHORT).show();
 
         }
 
+    public void Toast2(){
+        Toast.makeText(this, "toast 2", Toast.LENGTH_SHORT).show();
+
     }
+
+
 }
