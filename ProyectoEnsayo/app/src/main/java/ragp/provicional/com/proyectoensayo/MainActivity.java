@@ -12,23 +12,28 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Toast.makeText(this, "saquen las cerveza Prroooooo", Toast.LENGTH_SHORT).show();
 
+        //hola mundo, peroon!!!!!!!
         Toast.makeText(this, "saquen las cerveza Prroooooo", Toast.LENGTH_SHORT).show();
+        //hola mundo!!!!!!!
+        Toast.makeText(this, "saquen las cerveza Prroooooo", Toast.LENGTH_SHORT).show();
+        //hola mundo!!!!!!!
 
     }
-
     public void Toast2() {
         Toast.makeText(this, "toast 2", Toast.LENGTH_SHORT).show();
-
-        public void mostrarDatos () {
-            Toast.makeText(this, "HOLIWI", Toast.LENGTH_SHORT).show();
-        }
-        public void mostrarToast () {
-            Toast.makeText(this, "Hola", Toast.LENGTH_SHORT).show();
-        }
-        public void mostrarToast2 () {
-            Toast.makeText(this, "Hola weyes", Toast.LENGTH_SHORT).show();
-        }
     }
+    
+    public void mostrarDatos(){
+        Toast.makeText(this, "HOLIWI", Toast.LENGTH_SHORT).show();
+    }
+    public void mostrarToast(){
+        Toast.makeText(this, "Hola", Toast.LENGTH_SHORT).show();
+
+    }
+
+
+
+
+
 }
