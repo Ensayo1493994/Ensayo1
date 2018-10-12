@@ -18,12 +18,21 @@ public class MainActivity extends AppCompatActivity {
 
     public void Toast2(){
         Toast.makeText(this, "toast 2", Toast.LENGTH_SHORT).show();
-
-
+    
+    public void mostrarDatos(){
+        Toast.makeText(this, "HOLIWI", Toast.LENGTH_SHORT).show();
     }
     public void mostrarToast(){
         Toast.makeText(this, "Hola", Toast.LENGTH_SHORT).show();
 
     }
+<<<<<<< HEAD
+    public void mostrarToast2(){
+        Toast.makeText(this, "Hola weyes", Toast.LENGTH_SHORT).show();
 
+    }
+
+=======
+    
+>>>>>>> 92ae8950dd540906ca1cce7f917ed906d8fcdc99
 }
