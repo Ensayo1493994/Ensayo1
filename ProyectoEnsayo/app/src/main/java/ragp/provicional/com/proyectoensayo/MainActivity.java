@@ -11,11 +11,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+<<<<<<< HEAD
+
+=======
         Toast.makeText(this, "saquen las cerveza Prroooooo", Toast.LENGTH_SHORT).show();
         //hola mundo!!!!!!!
+>>>>>>> c326db1efcebf20b41ff5a498a397f994c6b22dc
 
     }
-
     public void Toast2(){
         Toast.makeText(this, "toast 2", Toast.LENGTH_SHORT).show();
     
